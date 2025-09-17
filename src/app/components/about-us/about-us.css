@@ -1,0 +1,7 @@
+.para{
+    display: grid;
+    justify-content: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(196, 236, 236);
+    margin: 10px;
+}
